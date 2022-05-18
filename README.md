@@ -1,4 +1,4 @@
-# Company-Project-Scheduler
+# Command Line Vector Graphic Software
 
 Describe here all the commands that the system supports. For each command, use screenshots 
 to show the results under different inputs. 
