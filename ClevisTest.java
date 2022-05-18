@@ -1,4 +1,4 @@
-package hk.edu.polyu.comp.comp2021.clevis.model;
+package clevis.model;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -9,9 +9,6 @@ import static org.junit.Assert.*;
 public class ClevisTest {
 
     Shape[] shapes = new Shape[100];
-
-    /**for the assigned shapes below, they can be checked in the link below:
-       https://www.geogebra.org/calculator/dt77u2u7  */
 
     Shape line1 = new Line("line1", 3, 3, 1, 1);
     Shape line2 = new Line("line2", 2, 0, 4, 4);
