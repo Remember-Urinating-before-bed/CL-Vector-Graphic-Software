@@ -1,4 +1,4 @@
-package hk.edu.polyu.comp.comp2021.clevis.model;
+package clevis.model;
 import java.util.Arrays;
 
 public class Rectangle extends Shape{
