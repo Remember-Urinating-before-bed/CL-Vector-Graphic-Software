@@ -90,7 +90,7 @@ To quit and terminate the function, “quit” can be used. The command will exi
 
 Undo-redo:
 The undo-redo function can be used in all command in the above except for bundingbox, intersect, list, listAll and quit commands. The user can enter “undo” / “redo” to delete or recover the command entered. The example outputs are shown below.
-<img width="233" alt="image" src="https://user-images.githubusercontent.com/78738614/169063805-9de08f1a-9ecd-4ae3-a4e0-da814c6ebc8e.png">
+
 <img width="218" alt="image" src="https://user-images.githubusercontent.com/78738614/169063838-a2d81cde-69bc-4ddf-b370-c45e2c209cfd.png">
 <img width="212" alt="image" src="https://user-images.githubusercontent.com/78738614/169063883-433b2fb0-b16f-49b1-93b0-46c46844236b.png">  
  
