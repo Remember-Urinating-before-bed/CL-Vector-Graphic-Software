@@ -1,6 +1,6 @@
-package hk.edu.polyu.comp.comp2021.clevis;
+package clevis;
 
-import hk.edu.polyu.comp.comp2021.clevis.model.Clevis;
+import Clevis;
 
 public class Application {
 
